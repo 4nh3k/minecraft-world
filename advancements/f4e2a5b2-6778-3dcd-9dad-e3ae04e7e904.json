@@ -413,6 +413,7 @@
       "minecraft:blaze": "2025-05-06 11:06:50 +0000",
       "minecraft:skeleton": "2025-05-03 07:31:42 +0000",
       "minecraft:phantom": "2025-05-04 07:36:05 +0000",
+      "minecraft:zombified_piglin": "2025-05-06 14:27:08 +0000",
       "minecraft:witch": "2025-05-04 10:19:37 +0000",
       "minecraft:wither_skeleton": "2025-05-06 10:45:39 +0000",
       "minecraft:hoglin": "2025-05-03 20:06:31 +0000",
@@ -3702,6 +3703,12 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-05-06 11:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-06 14:15:15 +0000"
     },
     "done": true
   },
